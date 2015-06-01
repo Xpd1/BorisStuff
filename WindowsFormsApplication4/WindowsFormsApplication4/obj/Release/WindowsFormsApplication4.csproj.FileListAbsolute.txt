@@ -1,0 +1,16 @@
+c:\users\unknown\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\WindowsFormsApplication4.exe.config
+c:\users\unknown\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\Interop.WMPLib.dll
+c:\users\unknown\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\AxInterop.WMPLib.dll
+c:\users\unknown\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.csproj.ResolveComReference.cache
+c:\users\unknown\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\WindowsFormsApplication4.exe
+c:\users\unknown\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\WindowsFormsApplication4.pdb
+c:\users\unknown\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\Interop.WMPLib.dll
+c:\users\unknown\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\AxInterop.WMPLib.dll
+c:\users\unknown\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.Form1.resources
+c:\users\unknown\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.Form2.resources
+c:\users\unknown\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.Form3.resources
+c:\users\unknown\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\unknown\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\unknown\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.exe
+c:\users\unknown\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.pdb
+C:\Users\Unknown\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
